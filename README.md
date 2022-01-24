@@ -12,6 +12,7 @@ bft-api.lab is the repository for Billfold Technology schematics based business 
 |  Repository: | [api-lab](https://github.com/Billfold-Technologies/api-lab/) |
 |  Access token: | OAuth |
 |  Nucleus class: | api.lab |
+|  Deployment name: | `npm install` apilab |
 
 The nucleus class establishes and sets the CLI. The motherboard hosts seven class series and their business particles. The classes naming convention follows the build filename. A directory of classes may be found here:
 | Nucleus Class | Description
